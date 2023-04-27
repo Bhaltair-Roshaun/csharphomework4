@@ -64,8 +64,7 @@ void Task43()
     int size = 4;
     double[] numbers = new double[size];
 
-    bool check = Fill_numbers(numbers);
-    if (check == false)
+    if (Fill_numbers(numbers) == false)
     {
         return;
     }
@@ -73,9 +72,6 @@ void Task43()
     PrintArray(numbers);
     Console.Write($"x: {x(numbers)} ");
     Console.Write($"y: {y(numbers, x(numbers))} ");
-
-
-
 }
 
 
