@@ -1,0 +1,75 @@
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.csproj.AssemblyReference.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.AssemblyInfoInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.AssemblyInfo.cs
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.csproj.CoreCompileInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\bin\Debug\net6.0\Example 006.exe
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\bin\Debug\net6.0\Example 006.deps.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\bin\Debug\net6.0\Example 006.runtimeconfig.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\bin\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\bin\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\refint\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\Example 006.genruntimeconfig.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\obj\Debug\net6.0\ref\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.csproj.AssemblyReference.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.AssemblyInfoInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.AssemblyInfo.cs
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.csproj.CoreCompileInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\refint\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\bin\Debug\net6.0\Example 006.exe
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\bin\Debug\net6.0\Example 006.deps.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\bin\Debug\net6.0\Example 006.runtimeconfig.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\bin\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\bin\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\Example 006.genruntimeconfig.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #2\obj\Debug\net6.0\ref\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.csproj.AssemblyReference.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.AssemblyInfoInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.AssemblyInfo.cs
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.csproj.CoreCompileInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\refint\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\bin\Debug\net6.0\Example 006.exe
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\bin\Debug\net6.0\Example 006.deps.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\bin\Debug\net6.0\Example 006.runtimeconfig.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\bin\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\bin\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\Example 006.genruntimeconfig.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #3\obj\Debug\net6.0\ref\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\bin\Debug\net6.0\Example 006.exe
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\bin\Debug\net6.0\Example 006.deps.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\bin\Debug\net6.0\Example 006.runtimeconfig.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\bin\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\bin\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.csproj.AssemblyReference.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.AssemblyInfoInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.AssemblyInfo.cs
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.csproj.CoreCompileInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\refint\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\Example 006.genruntimeconfig.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 1\Homework\Task #4\obj\Debug\net6.0\ref\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.csproj.AssemblyReference.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.AssemblyInfoInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.AssemblyInfo.cs
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.csproj.CoreCompileInputs.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\refint\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\bin\Debug\net6.0\Example 006.exe
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\bin\Debug\net6.0\Example 006.deps.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\bin\Debug\net6.0\Example 006.runtimeconfig.json
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\bin\Debug\net6.0\Example 006.dll
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\bin\Debug\net6.0\Example 006.pdb
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\Example 006.genruntimeconfig.cache
+C:\Users\1395302\Desktop\ДЗ по ГБ\Знакомство с C#\Семинар 2\Task #1\obj\Debug\net6.0\ref\Example 006.dll
