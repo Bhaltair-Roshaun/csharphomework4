@@ -10,7 +10,7 @@
 
 
 
-void Fill_numbers(double[] numbers)
+bool Fill_numbers(double[] numbers)
 {
     Console.Write($"Введите число b1: ");
     numbers[0] = double.Parse(Console.ReadLine());
@@ -20,16 +20,17 @@ void Fill_numbers(double[] numbers)
     numbers[2] = double.Parse(Console.ReadLine());
     Console.Write($"Введите число k2: ");
     numbers[3] = double.Parse(Console.ReadLine());
-                if (numbers[1] == numbers[3])
+    if (numbers[1] == numbers[3])
     {
         System.Console.WriteLine("Линии будут паралелльны, потому x и y не будет найден ");
+        return false;
     }
-
+    return true;
 }
 
 
 double x(double[] numbers)
-{    
+{
     double x = (numbers[2] - numbers[0]) / (numbers[1] - numbers[3]);
     return x;
 }
@@ -63,13 +64,18 @@ void Task43()
     int size = 4;
     double[] numbers = new double[size];
 
-    Fill_numbers(numbers);
+    bool check = Fill_numbers(numbers);
+    if (check == false)
+    {
+        return;
+    }
     Console.Write($"Имеющиеся числа: ");
     PrintArray(numbers);
-
-
     Console.Write($"x: {x(numbers)} ");
     Console.Write($"y: {y(numbers, x(numbers))} ");
+
+
+
 }
 
 
